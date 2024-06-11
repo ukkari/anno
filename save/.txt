@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="組織概要、議会中継、傍聴案内などを中心に東京都議会の情報を提供しています。">
+<meta name="verify-v1" content="5Dy9bXC/iJ5cnDoVCQKIzhTc8lkNA0kcyu5yDzO+j+Y=">
+<title>東京都議会</title>
+<link rel="preload" href="styles/top.css" as="style">
+<link rel="stylesheet" href="styles/top.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
+<link rel="stylesheet" href="styles/slick-theme.css">
+<script>(function(n,t,i,r,u){n[r]=n[r]||[];n[r].push({"gtm.start":(new Date()).getTime(),event:"gtm.js"});var e=t.getElementsByTagName(i)[0],f=t.createElement(i),o=r!="dataLayer"?"&l="+r:"";f.async=!0;f.src="https://www.googletagmanager.com/gtm.js?id="+u+o;e.parentNode.insertBefore(f,e)})(window,document,"script","dataLayer","GTM-29B6");</script>
+<!--//Google Tag Manager -->
+</head>
+
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-29B6" height="0" width="0" style="display:none;visibility:hidden" title="GTM"></iframe></noscript>
+<!--//Google Tag Manager (noscript) -->
+<a href="#contents" class="skip">本文へ移動</a>
+<div class="page-header">
+	<div class="header-container">
+		<div class="header-mb">
+			<div class="site-logo">
+				<h1 class="header-h1"><a href="./"><img src="images/svg/logo.svg" width="160" height="31" alt="東京都議会" decoding="async"></a></h1>
+				<h2 class="header-h2">Tokyo Metropolitan Assembly</h2>
+			</div>
+			<div class="navbtn" id="js-toggle"></div>
+		</div><!--//header-mb -->
+			<div class="subnav">
+				<ul>
+					<li><a href="sitemap.html" title="サイトマップへ">サイトマップ</a></li>
+					<li><a href="foreignlanguage/" title="languageへ">language</a></li>
+				</ul>
+			</div>
+			<div class="fontsize">文字サイズ
+				<button type="button" class="btn" data-font="1.25">拡大</button>
+				<button type="button" class="btn active" data-font="1">標準</button>
+			</div>
+			<div class="search-form">
+				<form id="cse-search-box" class="search" action="search/result.html">
+					<input type="text" name="q" value="" title="サイト内検索のキーワードを入力" class="searchBox">
+					<div class="search-btn"><input type="submit" name="sa" value="検索"></div>
+					<input type="hidden" name="cx" value="441cf8f06f46ce59d">
+					<input type="hidden" name="ie" value="UTF-8">
+				</form>
+				<script src="https://www.google.com/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+			</div>
+	</div><!--//header-container -->
+		<div id="nav" class="nav" role="navigation">
+			<ul>
+				<li class="list-menu"><a href="assembly.html">都議会の紹介</a>
+					<ul>
+						<li><a href="outline/">都議会のあらまし</a></li>
+						<li><a href="outline/history.html">都議会の沿革</a></li>
+						<li><a href="outline/archive.html">都議会の開会状況</a></li>
+						<li><a href="outline/officeinfo.html">議事堂・事務局</a></li>
+						<li><a href="live/video/pr-video.html">映像で見る都議会</a></li>
+					</ul>
+				</li>
+				<li class="list-menu"><a href="member.html">議員の紹介</a>
+					<ul>
+						<li><a href="membership/">議員名簿</a></li>
+						<li><a href="membership/committees.html">委員会名簿</a></li>
+						<li><a href="outline/factional.html">会派構成・略称一覧</a></li>
+					</ul>
+				</li>
+				<li class="list-menu"><a href="record.html">会議の結果と記録</a>
+					<ul>
+						<li><a href="record/">会議録・速記録</a></li>
+						<li><a href="bill/">提出議案と議決結果</a></li>
+						<li><a href="opinion/">意見書・決議など</a></li>
+						<li><a href="petition/">請願・陳情の審議状況</a></li>
+						<li><a href="record/inspection/">委員会の視察報告</a></li>
+						<li><a href="netreport/">本会議ネットリポート</a></li>
+					</ul>
+				</li>
+				<li class="list-menu"><a href="visit.html">傍聴・見学</a>
+					<ul>
+						<li><a href="outline/audience.html">傍聴のご案内</a></li>
+						<li><a href="outline/prcorner.html">見学・ＰＲコーナー</a></li>
+						<li><a href="outline/access.html">都議会へのアクセス</a></li>
+						<li><a href="outline/guide_map.html">都議会議事堂案内図</a></li>
+					</ul>
+				</li>
+				<li class="list-menu"><a href="work.html">調査・友好交流など</a>
+					<ul>
+						<li><a href="investigation/">議会改革・調査・研究</a></li>
+						<li><a href="international/">海外調査</a></li>
+						<li><a href="international/interchange.html">友好都市交流</a></li>
+						<li><a href="info/earthquake.html">東日本大震災への対応</a></li>
+						<li><a href="investigation/activities.html">その他の活動</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div><!--//nav -->
+</div><!--//page-header -->
+
+<div id="page-top">
+	<div class="hero">
+		<div class="slider">
+			<div><img src="images/1.jpg" width="938" height="220" alt="議事堂表" loading="eager"></div>
+			<div><img data-lazy="images/2.jpg" width="938" height="220" alt="議事堂裏"></div>
+			<div><img data-lazy="images/3.jpg" width="938" height="220" alt="石碑"></div>
+			<div><img data-lazy="images/4.jpg" width="938" height="220" alt="議場"></div>
+			<div><img data-lazy="images/5.jpg" width="938" height="220" alt="議場の様子"></div>
+		</div>
+	</div><!--//hero-->
+</div>
+
+<div class="content" id="contents">
+	<div class="container">
+		<div class="main">
+			<div class="main-btns">
+				<a href="member.html" class="btns-item"><div class="media"><img src="images/svg/member.svg" width="68" height="68" alt="" class="media-figure" decoding="async"><div class="media-txt">議員の紹介</div></div></a>
+				<a href="schedule/" class="btns-item"><div class="media"><img src="images/svg/schedule.svg" width="68" height="68" alt="" class="media-figure" decoding="async"><div class="media-txt">会議の予定</div></div></a>
+			</div>
+			<div class="main-btns">
+				<a href="live/" class="btns-item"><div class="media"><img src="images/svg/live.svg" width="68" height="68" alt="" class="media-figure" decoding="async"><div class="media-txt"><span>インターネット</span><span>中継</span></div></div></a>
+				<a href="record/" class="btns-item"><div class="media"><img src="images/svg/record.svg" width="68" height="68" alt="" class="media-figure" decoding="async"><div class="media-txt">会議録・速記録</div></div></a>
+			</div>
+		</div><!--//main-->
+
+		<div class="aside">
+			<p>議長室から</p>
+			<a href="membership/greeting.html">ごあいさつ</a>
+			<a href="informationdisclosure/chairman/51th/">写真リポート</a>
+			<a href="outline/successive_generations.html">歴代議長・副議長</a>
+		</div><!--//aside-->
+
+		<div class="news">
+				<div class="news-row">
+					<div class="news-col">
+						<ul class="tab-list" id="tab-section">
+							<li class="tab-item is-open"><a href="#topics" data-toggle>トピックス</a></li>
+							<li class="tab-item"><a href="#other" data-toggle>職員募集・そのほか</a></li>
+						</ul>
+
+						<div class="tab-content is-open" id="topics">
+							<ul>
+								<li><time datetime="2024-05-29" class="date">令和6年5月29日</time>
+									<a href="informationdisclosure/chairman/51th/">令和6年第2回定例会 開会</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-05-04" class="date">令和6年5月4日</time>
+									<a href="newsletter/357/">都議会だより357号</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-04-22" class="date">令和6年4月22日</time>
+									<a href="info/notice-05.html">台湾地震にかかる見舞金の贈呈について</a>
+								</li>
+							</ul>
+							<p class="text-right"><a href="topics-archive.html">過去のトピックス</a></p>
+						</div><!--//col-->
+
+						<div class="tab-content" id="other">
+							<div class="foot-link">
+								<p></p>
+								<p class="text-right"><a href="info/notice-01.html">新型コロナウイルス関連情報</a></p>
+							</div><!--//foot-link-->
+						</div><!--//tab-content-->
+					</div><!--//news-col-->
+
+					<div class="news-col">
+						<ul class="tab-list" id="tab-section-second">
+							<li class="tab-item is-open"><span>本会議情報</span></li>
+						</ul>
+
+						<div class="tab-content is-open">
+							<ul>
+								<li><time datetime="2024-06-10" class="date">令和6年6月10日<span class="bold">New</span></time>
+									<a href="record/proceedings/2024-2/">第2回定例会 会議録（速報版）</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-06-05" class="date">令和6年6月5日</time>
+									<a href="bill/reg2024-2.html">第2回定例会 提出議案と議決結果</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-06-05" class="date">令和6年6月5日</time>
+									<a href="live/reg2024-2.html">第2回定例会 録画映像</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-06-05" class="date">令和6年6月5日</time>
+									<a href="live/plenary-session.html">第2回定例会 本会議ネット中継の予定</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-05-31" class="date">令和6年5月31日</time>
+									<a href="question/plenarysession.html">第2回定例会 質問順序・質問項目</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-05-22" class="date">令和6年5月22日</time>
+									<a href="schedule/plenary-session.html">第2回定例会 予定表</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-05-22" class="date">令和6年5月22日</time>
+									<a href="tv/assembly-1.html">第2回定例会 「都議会中継」放送予定</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2024-05-22" class="date">令和6年5月22日</time>
+									<a href="tv/assembly-2.html">第2回定例会 「都議会の焦点」放送予定</a>
+								</li>
+							</ul>
+							<ul>
+								<li><time datetime="2023-05-17" class="date">令和5年5月17日</time>
+									<a href="outline/audience.html">傍聴に関するお知らせ</a></li>
+							</ul>
+						</div>
+
+					</div><!--//news-col-->
+				</div><!--//news-row-->
+			</div><!--//news-->
+
+		<div class="sub">
+			<div class="sub-container">
+				<div class="sub-result">
+					<img src="images/svg/sub-result.svg" width="101" height="27" alt="会議結果" loading="lazy">
+					<div class="category">
+						<a href="bill/" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/bill.svg" width="107" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>提出議案と</span><span>議決結果</span></div></div>
+							</div>
+						</a>
+						<a href="opinion/" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/opinion.svg" width="107" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>意見書・決議</span><span>など</span></div></div>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<div class="sub-guide">
+					<img src="images/svg/sub-guide.svg" width="120" height="27" alt="都議会案内" loading="lazy">
+					<div class="category">
+						<a href="procedure.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/procedure.svg" width="69" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>情報公開</span><span>・手続き</span></div></div>
+							</div>
+						</a>
+						<a href="petition.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/petition.svg" width="70" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner">請願・陳情</div></div>
+							</div>
+						</a>
+						<a href="visit.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/visit.svg" width="90" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner">傍聴・見学</div></div>
+							</div>
+						</a>
+						<a href="outline/library.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/library.svg" width="91" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>図書館・</span><span>蔵書検索</span></div></div>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<div class="sub-pr">
+					<img src="images/svg/sub-pr.svg" width="119" height="27" alt="都議会広報" loading="lazy">
+					<div class="category">
+						<a href="tv/" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/tv.svg" width="81" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>提供</span><span>テレビ番組</span></div></div>
+							</div>
+						</a>
+						<a href="newsletter.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/newsletter.svg" width="51" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner">都議会だより</div></div>
+							</div>
+						</a>
+						<a href="FormMail/demand/FormMail.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/comment.svg" width="102" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>ご意見・</span><span>ご要望</span></div></div>
+							</div>
+						</a>
+						<a href="kids/" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/kids.svg" width="65" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner">都議会キッズ</div></div>
+							</div>
+						</a>
+						<a href="info/outline.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/outline.svg" width="111" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>都議会の</span><span>はなし</span></div></div>
+							</div>
+						</a>
+						<a href="outline/magazine.html" class="btn-item">
+							<div class="btn-img">
+								<img src="images/svg/mailmagazine.svg" width="112" height="56" alt="" loading="lazy">
+								<div class="btn-txt"><div class="btn-txt-inner"><span>メール</span><span>マガジン</span></div></div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div><!--//sub-->
+</div><!--//container-->
+
+		<div class="banner">
+			<a href="https://www.gichokai.gr.jp/"><img src="images/chairman.gif" width="100" height="32" alt="全国都道府県議会議長会" loading="lazy"></a><a href="https://www.metro.tokyo.lg.jp/"><img src="images/tokyo.gif" width="100" height="32" alt="東京都" loading="lazy"></a>
+		</div>
+</div><!--//contents-->
+
+<div class="pagetop"><a href="#page-top" aria-label="ページ先頭に戻る"><span class="sr-only">ページ先頭に戻る</span></a></div>
+<footer class="page-footer">
+	<div class="footer-container">
+		<aside class="footer-link">
+				<ul class="link-menu">
+					<li><a href="about/">このサイトについて</a></li>
+					<li><a href="FormMail/demand/FormMail.html">ご意見・ご要望</a></li>
+					<li><a href="about/privacy.html">個人情報の取り扱い</a></li>
+					<li><a href="about/contact.html">お問い合わせ</a></li>
+					<li><a href="about/copyright.html">著作権・リンク</a></li>
+					<li><a href="link/">リンク集</a></li>
+				</ul>
+		</aside>
+
+		<div class="footer-logo">
+			<a href="/"><img src="images/svg/logo.svg" width="160" height="31" alt="東京都議会" loading="lazy"></a><br>Tokyo Metropolitan Assembly
+			<p class="footer-adress">東京都議会議会局管理部広報課<br>〒163-8001<br>東京都新宿区西新宿二丁目8番1号 <a href="outline/access.html" class="xx-small">交通案内</a><br>電話 03-5320-7126 ｜ Fax 03-5388-1779</p>
+		</div>
+	</div>
+</footer>
+<p class="copyright">Copyright &copy; 1999<br class="sp-br"> Tokyo Metropolitan Assembly All Rights Reserved.</p>
+
+<!-- drawer iOSreload-->
+<script>const html=document.documentElement,menuBtn=document.querySelector(".navbtn"),sub=document.querySelector(".subnav"),search=document.querySelector(".search-form"),nav=document.querySelector(".nav");menuBtn.addEventListener("click",function(){this.classList.contains("collapse")?(this.classList.remove("collapse"),html.classList.remove("fixed"),sub.classList.remove("collapse"),search.classList.remove("collapse"),nav.classList.remove("collapse")):(this.classList.add("collapse"),html.classList.add("fixed"),sub.classList.add("collapse"),search.classList.add("collapse"),nav.classList.add("collapse"))});
+
+window.addEventListener("pageshow",()=>{window.performance.navigation.type==2&&location.reload()});
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<!-- fixedScroll dropdown fontsize-->
+<script>$(window).on("scroll",function(){$(".page-header").css("left",-$(window).scrollLeft());});
+
+function mediaQueriesWin(){var n=$(window).width();if(n<=960){$(".list-menu>a").off("click");$(".list-menu>a").on("click",function(){var n=$(this).parent();return $(n).toggleClass("active"),$(n).children("ul").stop().slideToggle(500),!1})}else $(".list-menu>a").off("click"),$(".list-menu").removeClass("active"),$(".list-menu").children("ul").css("display","")}$(".navbtn").click(function(){$(this).toggleClass("close")});$(window).resize(function(){mediaQueriesWin()});$(window).on("load",function(){mediaQueriesWin()});
+
+window.addEventListener("load",function(){$(function(){function a(b){$("html").css("font-size",b+"rem"),sessionStorage.setItem("fontSize",b)}a(sessionStorage.getItem("fontSize")?sessionStorage.getItem("fontSize"):"1"),$("[data-font]").on("click",function(){a($(this).data("font"))})})},false);
+</script>
+
+<!-- slide -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script>$(".slider").slick({autoplay:!0,autoplaySpeed:4e3,dots:!0,pauseOnHover:!1,lazyLoad:"progressive",cssEase:"linear"});$(function(){var t=$('<div class="slickBtnArea"><button id="tglBtn" aria-label="再生・停止"><span id="startBtn"><\/span><span id="stopBtn"><\/span><\/button><\/div>'),n;$(".slider .slick-dots").after(t);$("#startBtn").hide();n="play";$("#tglBtn").click(function(){$("#startBtn").toggle();n=="play"?($("#startBtn").show(),$("#stopBtn").hide(),n="stop",$(".slider").slick("slickPause")):($("#startBtn").hide(),$("#stopBtn").show(),n="play",$(".slider").slick("slickPlay"))})});</script>
+
+<!-- tab -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=NodeList.prototype.forEach"></script>
+<script>"use strict";function Tab(n){this.toggles=n.querySelectorAll("[data-toggle]");this.handleClick()}document.addEventListener("DOMContentLoaded",function(){var n=document.getElementById("tab-section");new Tab(n)});Tab.prototype.handleClick=function(){var n=this;this.toggles.forEach(function(t){t.addEventListener("click",function(i){i.preventDefault();n.closeAll();t.parentNode.classList.add("is-open");var r=t.getAttribute("href"),u=document.querySelector(r);u.classList.add("is-open")})})};Tab.prototype.closeAll=function(){this.toggles.forEach(function(n){n.parentNode.classList.remove("is-open");var t=n.getAttribute("href"),i=document.querySelector(t);i.classList.remove("is-open")})}</script>
+
+<!-- scroll -->
+<script>const pageTopScroll=document.getElementById("page-top");pageTopScroll.addEventListener("click",function(){window.scrollTo({top:0,behavior:"smooth"})});</script>
+<script src="https://www.chatbot.metro.tokyo.lg.jp/bctrl254-standard/24_tokyotogikai_jpn/chat-ui/core/chat-loader.js"></script>
+<script>CHORDSHIP.setup("https://www.chatbot.metro.tokyo.lg.jp/bctrl254-standard/24_tokyotogikai_jpn/chat-ui/");</script>
+</body>
+</html>
